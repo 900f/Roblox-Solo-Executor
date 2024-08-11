@@ -1,15 +1,15 @@
-# Roblox-Solo-Executor
-Roblox Executor bcos your sad lol
+# Discord Nuker
+YOU NUKE SERVERS LOL
 
 IF you get any issues make a issues comment ill probably reply
 
 TAGS;
 
-roblox
-roblox-executor
-lua
-roblox-cheats
+NUKER
+discord
+c++
+cheats
 executor
 exploits
 gui
-roblox-executor
+hacks
